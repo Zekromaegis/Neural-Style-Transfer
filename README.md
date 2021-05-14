@@ -1,7 +1,7 @@
 # Neural-Style-Transfer
 This project implements the algorithm proposed in ["A Neural Algorithm of Artistic Style"](https://arxiv.org/abs/1508.06576) by Gatys et al. as well as a user-friendly GUI for running the algorithm.
 
-![GUI Image](readme_src\Initial.PNG?raw=true "NST with GUI")
+![GUI Image](readme_src/Initial.PNG?raw=true "NST with GUI")
 
 ## Requirements
 1. Python version 3.7 or higher installed.
